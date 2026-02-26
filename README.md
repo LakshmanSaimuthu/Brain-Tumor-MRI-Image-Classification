@@ -1,6 +1,14 @@
 # Brain-Tumor-MRI-Image-Classification
-Brain Tumor MRI Image Classification project uses deep learning and transfer learning models to classify brain MRI images into tumor categories. Custom CNN and pretrained models were trained with data augmentation, evaluated using accuracy and F1-score, and deployed via a Streamlit web app for real-time predictions.
+Brain Tumor MRI Image Classification is a deep learning project that classifies MRI brain scans into tumor categories using transfer learning and custom CNN models.  
+The system includes data preprocessing, augmentation, model training, evaluation, and a Streamlit web app for real-time prediction.
 
+## Skills Demonstrated
+- Deep Learning (CNN, Transfer Learning)
+- Image Processing & Data Augmentation
+- Model Evaluation (Accuracy, F1-score)
+- Python, TensorFlow, Keras
+- Streamlit Deployment
+- 
 1️⃣ Dataset Understanding
 
 Loaded and explored the Brain Tumor MRI dataset
