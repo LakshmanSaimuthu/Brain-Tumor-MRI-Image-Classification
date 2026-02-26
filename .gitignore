@@ -1,5 +1,9 @@
 tf_env/
-__pycache__/
-*.pyc
+train/
+test/
+valid/
+Tumour/
+*.zip
 *.h5
+__pycache__/
 .ipynb_checkpoints/
