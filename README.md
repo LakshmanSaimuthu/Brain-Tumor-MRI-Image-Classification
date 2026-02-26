@@ -8,7 +8,7 @@ The system includes data preprocessing, augmentation, model training, evaluation
 - Model Evaluation (Accuracy, F1-score)
 - Python, TensorFlow, Keras
 - Streamlit Deployment
-- 
+  
 1️⃣ Dataset Understanding
 
 Loaded and explored the Brain Tumor MRI dataset
